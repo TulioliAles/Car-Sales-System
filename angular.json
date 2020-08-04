@@ -145,6 +145,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "car-sales"
+    }
+  },
+  "defaultProject": "car-sales",
+  "cli": {
+    "analytics": false
+  }
 }
