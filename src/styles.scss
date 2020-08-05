@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+$background-color: #252525;
+$font-color: #fff;
+
+.p-card {
+    background-color: $background-color;
+    color: $font-color;
+}
