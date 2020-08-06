@@ -3,7 +3,19 @@
 $background-color: #252525;
 $font-color: #fff;
 
+body {
+    background-image: url("./assets/background-car.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.95;
+}
+
 .p-card {
     background-color: $background-color;
     color: $font-color;
+}
+
+.text-center {
+    text-align: center;
 }
